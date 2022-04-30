@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.AssemblyInfo.cs
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\bin\Debug\netcoreapp3.1\WeekendDay6.exe
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\bin\Debug\netcoreapp3.1\WeekendDay6.deps.json
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\bin\Debug\netcoreapp3.1\WeekendDay6.runtimeconfig.json
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\bin\Debug\netcoreapp3.1\WeekendDay6.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\bin\Debug\netcoreapp3.1\WeekendDay6.dll
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\bin\Debug\netcoreapp3.1\WeekendDay6.pdb
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.dll
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.pdb
+C:\Users\Ali\source\repos\WeekendDay6\WeekendDay6\obj\Debug\netcoreapp3.1\WeekendDay6.genruntimeconfig.cache
